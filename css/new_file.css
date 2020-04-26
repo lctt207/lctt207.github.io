@@ -1,0 +1,26 @@
+body {
+	background:#FAEBD7;
+}
+#bg {
+	text-align: center; 
+}
+.darkcyan {
+	font-size: 5em;
+	color:#A52A2A;
+.coral {
+	font-size: 5em;
+	color:#A52A2A;
+}
+.eng {
+	font-family: 'Lobster', cursive;
+	font-size: 5em;
+	color:brown;
+	font-style: italic;
+}
+.gray {
+	font-size: 2em;
+	color:#FAEBD7;
+}
+#margin {
+	margin-top: 50px;
+}
